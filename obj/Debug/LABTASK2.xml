@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LABTASK2
+</name>
+</assembly>
+<members>
+<member name="T:LABTASK2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.auto_spare_parts_car_white_background_set_many_isolated_items_shop_aftermarket_auto_spare_parts_car_130581908">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.Screenshot_20230227_084835">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.Screenshot_20230301_095030">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.Screenshot_20230301_095339">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.Screenshot_20230301_095602">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LABTASK2.My.Resources.Resources.Where_to_Buy_Car_Spare_Parts_in_Dubai_Cover_20210806">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

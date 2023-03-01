@@ -1,0 +1,13 @@
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\bin\Debug\LABTASK2.exe.config
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\bin\Debug\LABTASK2.exe
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\bin\Debug\LABTASK2.pdb
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\bin\Debug\LABTASK2.xml
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.Resources.resources
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.vbproj.GenerateResource.Cache
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.exe
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.xml
+c:\users\novva\documents\visual studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.pdb
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.Form3.resources
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.Form2.resources
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.Form5.resources
+C:\Users\NOVVA\Documents\Visual Studio 2015\Projects\LABTASK2\LABTASK2\obj\Debug\LABTASK2.SplashScreen1.resources
